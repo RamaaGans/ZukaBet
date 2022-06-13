@@ -5,7 +5,7 @@ global.prems = ['6282142108243']
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Ramaaa'
-global.numberowner = '6282142108243'
+global.numberowner = '6282142108243','62887436223985'
 global.instagram = 'https://instagram.com/rassya766'
 global.github = 'https://github.com/'
 global.dana = 'GA ADA'
@@ -14,7 +14,7 @@ global.gopay = '082338098038'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'R-BOT-Md'
-global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
+global.gc = 'https://chat.whatsapp.com/KTm4p53s6457qcV5aDOAPI'
 global.web = 'https://chat.whatsapp.com/D5FjDCkZrdr32qYCClLyQ9' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\nPermanen 20.000'
 
